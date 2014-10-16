@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[agd:home|Door43 (agd)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-agd|d43-agd repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-agd/archive/master.zip|d43-agd.zip]]
+
+**Recent Changes**
+{{changes>ns = agd}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/agd|Ethnologue data]]
+
